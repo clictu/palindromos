@@ -1,0 +1,2 @@
+# palindromos
+p
